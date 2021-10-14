@@ -7,7 +7,7 @@
 # az ad sp create-for-rbac -n "AzurePowershell" 
 # Fill in the variables below, App ID and App Secret
 
-Import-Module AWSPowershell
+Import-Module AzureRM
 Import-Module BurntToast
 
 #Variables to populate begin
